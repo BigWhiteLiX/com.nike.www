@@ -32,10 +32,11 @@ h3 span {
   overflow: auto;
   margin-top: 1.92rem;
   margin-bottom: 1.2rem;
-  margin-left: 0.62666667rem;
+  padding-left: 0.62666667rem;
+  box-sizing: border-box;
 }
 .choose ul {
-  width: 150%;
+  width: 156%;
 }
 .choose ul li {
   float: left;
