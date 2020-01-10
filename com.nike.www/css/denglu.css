@@ -1,0 +1,35 @@
+body {
+  padding: 0 0.77333333rem;
+}
+nav {
+  margin-top: 0.77333333rem;
+}
+nav img {
+  width: 1.14666667rem;
+  height: 0.41333333rem;
+  margin-left: 3.65333333rem;
+}
+nav h3 {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 0.89230769rem;
+}
+nav input:nth-child(3) {
+  height: 1.06666667rem;
+  width: 100%;
+  border: 0.02666667rem solid #cccccc;
+  box-sizing: border-box;
+  margin-bottom: 0.37333333rem;
+  margin-top: 0.85333333rem;
+}
+nav input:nth-child(3)::before {
+  content: "";
+}
+nav input:nth-child(4) {
+  height: 1.06666667rem;
+  width: 100%;
+  border: 0.02666667rem solid #cccccc;
+  box-sizing: border-box;
+  margin-bottom: 0.42666667rem;
+  border-radius: 0.05333333rem;
+}
